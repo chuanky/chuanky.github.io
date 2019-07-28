@@ -1,5 +1,4 @@
 ## Welcome to Projects Overview
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Chat Room
 A chat room website developed using socketio and javascript. 
@@ -8,7 +7,7 @@ A chat room website developed using socketio and javascript.
 ### Texture Synthesis and Transfer
 Implementation of an algorithm from [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf) using python.
 - Input
-![Image](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/rice.png)
+![](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/rice.png)
 ![Image](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/man_face.png)
 - Output
 ![Image](https://github.com/chuanky/TextureSynthesis/blob/master/outputs/output_manface_itr3_alpha0.2.png)
