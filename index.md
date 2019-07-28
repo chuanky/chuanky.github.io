@@ -1,4 +1,5 @@
 ## Welcome to Projects Overview
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Chat Room
 A chat room website developed using socketio and javascript. 
