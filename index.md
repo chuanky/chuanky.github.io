@@ -7,10 +7,10 @@ A chat room website developed using socketio and javascript.
 ### Texture Synthesis and Transfer
 Implementation of an algorithm from [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf) using python.
 - Input
-![](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/rice.png)
-![Image](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/man_face.png)
+![Image](/imgs/rice.png)
+![Image](/imgs/man_face.png)
 - Output
-![Image](https://github.com/chuanky/TextureSynthesis/blob/master/outputs/output_manface_itr3_alpha0.2.png)
+![Image](/imgs/output_man_face.png)
 #### [Source Code](https://github.com/chuanky/TextureSynthesis.git)
 
 ### IOS App
@@ -23,9 +23,9 @@ A game developed using Unity.
 - Menu
 ![Image](/imgs/Menu.png)
 - Tutorial
-![Image](https://github.com/chuanky/git_page/blob/master/imgs/Tutorial.png)
+![Image](/imgs/Tutorial.png)
 - Two Player Mode
-![Image](https://github.com/chuanky/git_page/blob/master/imgs/TwoPlayer.png)
+![Image](/imgs/TwoPlayer.png)
 
 ### A* Path Finding with Collision Avoidance in Unity 2D
 A 
