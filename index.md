@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Projects Overview
 
-You can use the [editor on GitHub](https://github.com/chuanky/git_page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Chat Room
+A chat room website developed using socketio and javascript. 
+#### [Source Code](https://github.com/chuanky/chatRoom.git)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Texture Synthesis and Transfer
+Implementation of an algorithm from [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf) using python.
+- Input
+![](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/rice.png)
+![Image](https://github.com/chuanky/TextureSynthesis/blob/master/inputs/man_face.png)
+- Output
+![Image](https://github.com/chuanky/TextureSynthesis/blob/master/outputs/output_manface_itr3_alpha0.2.png)
+#### [Source Code](https://github.com/chuanky/TextureSynthesis.git)
 
-### Markdown
+### IOS App
+An app utilizes the Google Cloud Vision API to detect labels on an image and helps users with tracking their calorie intake.
+#### [Source Code](https://github.com/chuanky/calorieTracker.git)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tricky Table
+A game developed using Unity.
+#### Screen Shots
+- Menu
+![Image](/imgs/Menu.png)
+- Tutorial
+![Image](https://github.com/chuanky/git_page/blob/master/imgs/Tutorial.png)
+- Two Player Mode
+![Image](https://github.com/chuanky/git_page/blob/master/imgs/TwoPlayer.png)
 
-```markdown
-Syntax highlighted code block
+### A* Path Finding with Collision Avoidance in Unity 2D
+A 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chuanky/git_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
