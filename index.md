@@ -10,7 +10,7 @@ Implementation of an algorithm from [Image Quilting for Texture Synthesis and Tr
 ![Image](/imgs/rice.png)
 ![Image](/imgs/man_face.png)
 - Output
-![Image](/imgs/output_man_face.png)
+![Image](/imgs/output_man_rice.png)
 #### [Source Code](https://github.com/chuanky/TextureSynthesis.git)
 
 ### IOS App
