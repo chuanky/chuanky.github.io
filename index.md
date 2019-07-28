@@ -1,8 +1,9 @@
 ## Welcome to Projects Overview
 
-### Chat Room
-A chat room website developed using socketio and javascript. 
-#### [Source Code](https://github.com/chuanky/chatRoom.git)
+### A* Path Finding with Collision Avoidance in Unity 2D
+A game made in Unity for demenstration purpose. This game implements A* path finding algorithm and introduces a simple collision avoidance system.
+![Image](/imgs/collisionAvoidance.gif)
+#### [Source Code](https://github.com/chuanky/A-PathFindingUnity2D.git)
 
 ### Texture Synthesis and Transfer
 Implementation of an algorithm from [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf) using python.
@@ -27,6 +28,6 @@ A game developed using Unity.
 - Two Player Mode
 ![Image](/imgs/TwoPlayer.png)
 
-### A* Path Finding with Collision Avoidance in Unity 2D
-A game made in Unity for demenstration purpose.
-![Image](/imgs/collisionAvoidance.gif)
+### Chat Room
+A chat room website developed using socketio and javascript. 
+#### [Source Code](https://github.com/chuanky/chatRoom.git)
