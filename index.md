@@ -21,7 +21,7 @@ An app utilizes the Google Cloud Vision API to detect labels on an image and hel
 A game developed using Unity.
 #### Screen Shots
 - Menu
-![Image](https://github.com/chuanky/git_page/blob/master/imgs/Menu.png)
+![Image](/imgs/Menu.png)
 - Tutorial
 ![Image](https://github.com/chuanky/git_page/blob/master/imgs/Tutorial.png)
 - Two Player Mode
