@@ -29,4 +29,4 @@ A game developed using Unity.
 
 ### A* Path Finding with Collision Avoidance in Unity 2D
 A game made in Unity for demenstration purpose.
-![Image](/imgs/collsionAvoidance.gif)
+![Image](/imgs/collisionAvoidance.gif)
