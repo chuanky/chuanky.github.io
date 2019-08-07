@@ -3,7 +3,7 @@
 ### A* Path Finding with Collision Avoidance in Unity 2D
 - A game made in Unity for demenstration purpose. This game implements A* path finding algorithm and introduces a simple collision avoidance system.
 - Implement minHeap data structure to improve performance
-- Utilize command base structure to avoid collision when multiple agents are moving along their paths
+- Utilize command base structure to avoid collision while multiple agents are moving along their paths
 - ![Image](/imgs/collisionAvoidance.gif)
 #### [Source Code](https://github.com/chuanky/A-PathFindingUnity2D.git)
 
