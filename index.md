@@ -1,4 +1,5 @@
 ## Welcome to Projects Overview
+> email: chuanqi_shi@163.com
 
 ### A* Path Finding with Collision Avoidance in Unity 2D
 - A game made in Unity for demenstration purpose. This game implements A* path finding algorithm and introduces a simple collision avoidance system.
